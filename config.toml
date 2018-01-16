@@ -1,0 +1,36 @@
+baseURL = "http://kenwoo.me/"
+title = "kenwoo.me"
+
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Kenny Woo"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Bridging the mind and body."
+#copyright = "Copyright © 2018 Kenny Woo"
+logofile = "img/gouki-favicon.jpg"
+faviconfile = "img/gouki-favicon.jpg"
+highlightjs = true
+progressively = true
+align_left = false
+lang = "en"
+github = ""
+email = ""
+linkedin = ""
+twitter = ""
+social_banner = ""
+posts_navigation = true
+small_banner_logo = true
+latestpostcount = 5 # posts to show on home page

@@ -1,6 +1,5 @@
-page:
-	[ -d public ] && rm -rf public/*; \
-	hugo
+watch:
+	hugo server --buildDrafts
 
 push: page
 	cd public; \
@@ -9,12 +8,11 @@ push: page
 	git push origin master; \
 	cd ..
 
-all: page push
-
-watch:
-	hugo server --disableFastRender --buildDrafts
+page:
+	[ -d public ] && rm -rf public/*; \
+	hugo
 
 update-modules:
 	git submodule foreach git pull
 
-.PHONY: page push all watch update-modules
+.PHONY: page push watch update-modules

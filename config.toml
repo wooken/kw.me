@@ -2,7 +2,7 @@ baseURL = "http://kenwoo.me/"
 title = "kenwoo.me"
 
 theme = "cocoa-eh"
-builddrafts = true
+builddrafts = false
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"

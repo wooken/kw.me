@@ -1,7 +1,6 @@
 ---
 title: "Home"
 date: 2018-01-15T18:37:56-08:00
-draft: true
 ---
 
 Hi, I'm **Kenny Woo**. Welcome to my humble abode.

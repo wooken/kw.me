@@ -1,20 +1,13 @@
 ---
 title: "Home"
-date: 2018-01-15T18:37:56-08:00
+date: 2018-01-01
 ---
 
 Hi, I'm **Kenny Woo**. Welcome to my humble abode.
 
 You can find me on [Github](http://github.com/wooken).
 
-## Who am I
-
-- thinker
-- experimenter
-- minimalist
-- outgoing introvert
-
-## Things I Find Awesome
+## Things I Get Excited Over
 
 - text / the command line
 - hoisting heavy objects

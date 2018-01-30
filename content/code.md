@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Code"
 date: 2018-01-01
 ---
 

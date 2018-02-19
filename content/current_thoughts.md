@@ -7,13 +7,9 @@ date: 2018-01-02
 
 Just stumbled upon the idea of [quantity always trumping quality](https://blog.codinghorror.com/quantity-always-trumps-quality). Excited to try it out!
 
-## Accelerated C++
+## Accelerated C++ (Dec. 2017)
 
 Currently reading the book *Accelerated C++*.
 It takes the approach of teaching you purely C++, rather than building on top of C knowledge.
 While it isn't an exhaustive text, it claims to teach you the essentials.
 Afterwards, it directs you to more complete texts as well as learning from more focused sources.
-
-## Simple DirectedMedia Layer (SDL)
-
-[SDL](https://www.libsdl.org) is widely supported and cross-platform. This seems to be a good gateway library into game dev.

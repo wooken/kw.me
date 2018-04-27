@@ -1,6 +1,7 @@
 ---
 title: "Current Thoughts"
 date: 2018-01-02
+draft: true
 ---
 
 ## Quantity always trumps quality

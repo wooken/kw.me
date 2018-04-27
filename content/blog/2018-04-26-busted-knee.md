@@ -1,6 +1,6 @@
 ---
 title: "Busted Knee"
-date: 2018-04-26
+date: 2018-04-26T16:00:00-07:00
 ---
 
 In the beginning of December 2017, I dislocated my right knee when pushing off to move forward during a beach volleyball game.

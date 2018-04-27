@@ -1,6 +1,6 @@
 ---
 title: "Busted Knee: Lesson One"
-date: 2018-04-26
+date: 2018-04-26T18:00:00-07:00
 ---
 
 On March 29, 2018, 1:15 AM, I had my MRI.

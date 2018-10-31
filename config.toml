@@ -11,6 +11,7 @@ publishdir = "public"
 author = "Kenny Woo"
 disqusshortname = ""
 pluralizelisttitles = false
+googleAnalytics = "UA-112764492-1"
 
 [permalinks]
 blog = "blog/:slug/"
@@ -34,4 +35,3 @@ social_banner = ""
 posts_navigation = true
 small_banner_logo = true
 latestpostcount = 5 # posts to show on home page
-googleanalytics = "UA-112764492-1"

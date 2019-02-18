@@ -1,4 +1,4 @@
-baseURL = "http://kenwoo.me/"
+baseURL = "https://kenwoo.me/"
 title = "kenwoo.me"
 
 theme = "cocoa-eh"

@@ -1,37 +1,46 @@
 baseURL = "https://kenwoo.me/"
 title = "kenwoo.me"
-
-theme = "cocoa-eh"
-builddrafts = false
-canonifyurls = true
-contentdir = "content"
 languageCode = "en-US"
-layoutdir = "layouts"
-publishdir = "public"
+
+theme = "hugo-PaperMod"
+
+builddrafts = false
 author = "Kenny Woo"
-disqusshortname = ""
-pluralizelisttitles = false
 googleAnalytics = "UA-112764492-1"
 
-[permalinks]
-blog = "blog/:slug/"
-
 [params]
-dateform = "Jan 2, 2006"
-dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Bridging the mind and body."
-#copyright = "Copyright © 2018 Kenny Woo"
-logofile = ""
-faviconfile = "img/gouki-favicon.jpg"
-highlightjs = true
-progressively = true
-align_left = false
-lang = "en"
-github = "wooken"
-email = "kenny@kenwoo.me"
-linkedin = "wookenny"
-twitter = "kenzorz"
-social_banner = ""
-posts_navigation = true
-small_banner_logo = true
-latestpostcount = 5 # posts to show on home page
+defaultTheme = "dark"
+disableThemeToggle = true
+ShowCodeCopyButtons = true
+
+[params.profileMode]
+enabled = true
+title = "Kenny Woo"
+imageUrl = "img/gouki-favicon.jpg"
+imageWidth = 120
+imageHeight = 120
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:kenny@kenwoo.me"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/wooken"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/wookenny/"
+
+[[menu.main]]
+identifier = "code"
+name = "code"
+url = "/code"
+weight = 10
+
+[params.assets]
+favicon = "img/favicon.ico"
+favicon16x16 = "img/favicon-16x16.png"
+favicon32x32 = "img/favicon-32x32.png"
+apple_touch_icon = "img/apple-touch-icon.png"
+safari_pinned_tab = "img/safari-pinned-tab.svg"
